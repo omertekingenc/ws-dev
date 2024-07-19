@@ -4,7 +4,7 @@ Project Technologies:
     Open Liberty
 
 Development Platforms:
-    1)  IntelliJ IDEA 2023.3.7 : 
+    1)  IntelliJ IDEA Community Edition 2023.3.7 :
 		Review the GitHub documentation of liberty tools for IntelliJ IDEA
         https://github.com/OpenLiberty/liberty-tools-intellij#liberty-tools-for-intellij-idea
 
